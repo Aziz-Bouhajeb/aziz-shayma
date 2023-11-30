@@ -1,0 +1,21 @@
+.phone{
+    height: 200px;
+    position: relative;
+    left: -20px;    
+}
+#phone2{
+    height: 150px;
+}
+.phone3{
+    position: relative;
+    left: -50px;
+}
+.buttonn{
+   background-color: aqua;
+   margin-right: auto;
+    
+}
+
+
+
+
